@@ -10,12 +10,12 @@ This application will allow creating/removing/updating/fetching TODO items. Each
 
 ### Homepage outlook. Users can create, update, view and delete todos.
 
-![homepage](https://github.com/droffilc1/udacity-c4-final-project/blob/main/images/homepage.PNG)
+![homepage](https://user-images.githubusercontent.com/97587370/218666323-cc0336e2-7589-46ca-9701-9040552adb2d.png)
 
 ### Deploying the serverless backend creates a cloudformation stack on aws 
 
-![stack](https://github.com/droffilc1/udacity-c4-final-project/blob/main/images/cloudformation.PNG)
+![cloudformation](https://user-images.githubusercontent.com/97587370/218666626-c06dc0ce-7a06-4d48-93da-ea7bf306a0a5.png)
 
-![xray](https://github.com/droffilc1/udacity-c4-final-project/blob/main/images/serverle7.PNG)
+![xray](https://user-images.githubusercontent.com/97587370/218666946-758ec142-3481-4db2-a775-c6b2fedc0eb5.png)
 
-### View project instructions [here](https://github.com/droffilc1/udacity-c4-final-project/blob/main/images/INSTRUCTIONS.md)
+### View project instructions [here](https://github.com/droffilc1/udacity-c4-final-project/blob/main/INSTRUCTIONS.md)
