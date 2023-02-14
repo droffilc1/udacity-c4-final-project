@@ -18,4 +18,4 @@ This application will allow creating/removing/updating/fetching TODO items. Each
 
 ![xray](https://user-images.githubusercontent.com/97587370/218666946-758ec142-3481-4db2-a775-c6b2fedc0eb5.png)
 
-### View project instructions [here](https://github.com/droffilc1/udacity-c4-final-project/blob/main/INSTRUCTIONS.md)
+### View project instructions [here](https://github.com/droffilc1/udacity-c4-final-project/blob/2a9397f939f7f18056e746e870f166dc51e698ab/images/INSTRUCTIONS.md)
