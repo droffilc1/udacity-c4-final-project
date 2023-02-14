@@ -269,23 +269,23 @@ An alternative way to test your API, you can use the Postman collection that con
 
 Click on the import button:
 
-![Alt text](images/import-collection-1.png?raw=true "Image 1")
+![Alt text](https://github.com/droffilc1/udacity-c4-final-project/blob/d39add4c65054c26ff829f2325e64d4f2a5f7675/images/import-collection-1.png)
 
 
 Click on the "Choose Files":
 
-![Alt text](images/import-collection-2.png?raw=true "Image 2")
+![Alt text](https://github.com/droffilc1/udacity-c4-final-project/blob/d39add4c65054c26ff829f2325e64d4f2a5f7675/images/import-collection-2.png)
 
 
 Select a file to import:
 
-![Alt text](images/import-collection-3.png?raw=true "Image 3")
+![Alt text](https://github.com/droffilc1/udacity-c4-final-project/blob/d39add4c65054c26ff829f2325e64d4f2a5f7675/images/import-collection-3.png)
 
 
 Right click on the imported collection to set variables for the collection:
 
-![Alt text](images/import-collection-4.png?raw=true "Image 4")
+![Alt text](https://github.com/droffilc1/udacity-c4-final-project/blob/d39add4c65054c26ff829f2325e64d4f2a5f7675/images/import-collection-4.png)
 
 Provide variables for the collection (similarly to how this was done in the course):
 
-![Alt text](images/import-collection-5.png?raw=true "Image 5")
+![Alt text](https://github.com/droffilc1/udacity-c4-final-project/blob/d39add4c65054c26ff829f2325e64d4f2a5f7675/images/import-collection-5.png)
